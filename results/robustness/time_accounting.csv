@@ -1,0 +1,14 @@
+config,waves,delta,measure,dro_package,dro_phi_s,dro_phi_c,dro_objective,hrc_package,hrc_phi_s,hrc_phi_c,hrc_objective,dro_s_package,dro_c_package,separation_holds,hrc_b_pos_k_pos
+W1_delta1.00_aggregate,1,1.0,aggregate,A32_B0_K4,0.0,0.37981,462.88,A32_B6_K10,0.0,0.130489,575.12,A32_B0_K4,A32_B6_K10,1,1
+W2_delta1.00_aggregate,2,1.0,aggregate,A32_B0_K8,0.0,0.363272,494.6,A32_B6_K10,0.0,0.143363,576.59,A32_B0_K8,A32_B6_K10,1,1
+W2_delta1.00_peak,2,1.0,peak,A32_B0_K8,0.0,0.366279,494.6,A32_B8_K12,0.0,0.139241,625.16,A32_B0_K8,A32_B8_K12,1,1
+W2_delta0.90_aggregate,2,0.9,aggregate,A32_B0_K8,0.0,0.364676,494.6,A32_B6_K12,0.0,0.12005,590.56,A32_B0_K8,A32_B6_K12,1,1
+W2_delta0.90_peak,2,0.9,peak,A32_B0_K8,0.0,0.368713,494.6,A32_B8_K14,0.0,0.111886,640.49,A32_B0_K8,A32_B8_K14,1,1
+W2_delta0.80_aggregate,2,0.8,aggregate,A32_B0_K8,0.0,0.366114,494.6,A32_B6_K12,0.0,0.130184,590.56,A32_B0_K8,A32_B6_K12,1,1
+W2_delta0.80_peak,2,0.8,peak,A32_B0_K8,0.0,0.372734,494.6,A32_B8_K14,0.0,0.135368,640.49,A32_B0_K8,A32_B8_K14,1,1
+W3_delta1.00_aggregate,3,1.0,aggregate,A32_B0_K0,0.38946,0.446294,466.23,A32_B6_K12,0.0,0.117616,602.49,A32_B0_K10,A32_B6_K12,0,1
+W3_delta1.00_peak,3,1.0,peak,A32_B0_K0,0.38946,0.446294,466.23,A32_B8_K16,0.0,0.107434,670.13,A32_B0_K10,A32_B8_K16,0,1
+W3_delta0.90_aggregate,3,0.9,aggregate,A32_B0_K0,0.38946,0.446294,466.23,A32_B6_K12,0.0,0.141865,602.49,A32_B0_K10,A32_B6_K12,0,1
+W3_delta0.90_peak,3,0.9,peak,A32_B0_K0,0.38946,0.446294,466.23,A32_B8_K16,0.0,0.148157,670.13,A32_B0_K10,A32_B8_K16,0,1
+W3_delta0.80_aggregate,3,0.8,aggregate,A32_B0_K0,0.38946,0.446294,466.23,A32_B6_K16,0.0,0.145912,634.54,A32_B0_K10,A32_B6_K16,0,1
+W3_delta0.80_peak,3,0.8,peak,A32_B0_K0,0.38946,0.446294,466.23,infeasible,,,,A32_B0_K10,A0_B0_K0,0,0

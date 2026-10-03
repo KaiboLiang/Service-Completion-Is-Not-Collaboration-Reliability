@@ -1,0 +1,17 @@
+environment_id,group,seed,radius_label,epsilon,metric_variant,alpha_c,cost_schedule,automation_support_case,separation_holds,joint_threshold_exists,dro_package,dro_phi_s,dro_phi_c,hrc_package,hrc_status,hrc_phi_s,hrc_phi_c,hrc_b_positive_k_positive
+metric_baseline,metric variants,-1,q90,0.66818,baseline,0.15,cb1.00_ck1.00,baseline,1,1,A32_B0_K4,0.0,0.3798,A32_B6_K10,selected,0.0,0.1305,1
+metric_adversarial_corner,metric variants,-1,q90,0.66818,adversarial_corner,0.15,cb1.00_ck1.00,baseline,0,1,A32_B0_K4,0.0,0.1391,A32_B0_K4,selected,0.0,0.1391,0
+metric_robot_supp=0.2,metric variants,-1,q90,0.66818,robot_supp=0.2,0.15,cb1.00_ck1.00,baseline,1,1,A32_B0_K4,0.0,0.299,A32_B4_K10,selected,0.0,0.1451,1
+metric_robot_supp=0.1,metric variants,-1,q90,0.66818,robot_supp=0.1,0.15,cb1.00_ck1.00,baseline,1,1,A32_B0_K4,0.0,0.3387,A32_B6_K8,selected,0.0,0.1369,1
+metric_tauC=0.25,metric variants,-1,q90,0.66818,tauC=0.25,0.15,cb1.00_ck1.00,baseline,1,1,A32_B0_K4,0.0,0.4464,A32_B6_K16,selected,0.0,0.1479,1
+metric_tauC=0.45,metric variants,-1,q90,0.66818,tauC=0.45,0.15,cb1.00_ck1.00,baseline,1,1,A32_B0_K4,0.0,0.3149,A32_B4_K8,selected,0.0,0.1355,1
+metric_tauS=0.05,metric variants,-1,q90,0.66818,tauS=0.05,0.15,cb1.00_ck1.00,baseline,0,1,A32_B0_K4,0.1647,0.3798,A32_B6_K10,selected,0.0,0.1305,1
+metric_tauS=0.15,metric variants,-1,q90,0.66818,tauS=0.15,0.15,cb1.00_ck1.00,baseline,1,1,A32_B0_K4,0.0,0.3798,A32_B6_K10,selected,0.0,0.1305,1
+metric_human_supp=0.2,metric variants,-1,q90,0.66818,human_supp=0.2,0.15,cb1.00_ck1.00,baseline,1,1,A32_B0_K4,0.0,0.3798,A32_B6_K14,selected,0.0,0.1397,1
+metric_human_supp=0.5,metric variants,-1,q90,0.66818,human_supp=0.5,0.15,cb1.00_ck1.00,baseline,1,1,A32_B0_K4,0.0,0.3798,A32_B4_K10,selected,0.0,0.145,1
+metric_dmg_thr=3.0,metric variants,-1,q90,0.66818,dmg_thr=3.0,0.15,cb1.00_ck1.00,baseline,1,1,A32_B0_K4,0.0,0.4967,A32_B6_K12,selected,0.0,0.1348,1
+metric_dmg_thr=5.0,metric variants,-1,q90,0.66818,dmg_thr=5.0,0.15,cb1.00_ck1.00,baseline,1,1,A32_B0_K4,0.0,0.2497,A32_B2_K12,selected,0.0,0.1463,1
+metric_cross_robot=0.1_tauC=0.25,metric variants,-1,q90,0.66818,cross_robot=0.1_tauC=0.25,0.15,cb1.00_ck1.00,baseline,1,1,A32_B0_K4,0.0,0.4043,A32_B6_K14,selected,0.0,0.1459,1
+metric_cross_robot=0.1_tauC=0.45,metric variants,-1,q90,0.66818,cross_robot=0.1_tauC=0.45,0.15,cb1.00_ck1.00,baseline,1,1,A32_B0_K4,0.0,0.276,A32_B2_K10,selected,0.0,0.1433,1
+metric_cross_robot=0.2_tauC=0.25,metric variants,-1,q90,0.66818,cross_robot=0.2_tauC=0.25,0.15,cb1.00_ck1.00,baseline,1,1,A32_B0_K4,0.0,0.3629,A32_B6_K14,selected,0.0,0.143,1
+metric_cross_robot=0.2_tauC=0.45,metric variants,-1,q90,0.66818,cross_robot=0.2_tauC=0.45,0.15,cb1.00_ck1.00,baseline,1,1,A32_B0_K4,0.0,0.2384,A32_B4_K4,selected,0.0,0.1418,1

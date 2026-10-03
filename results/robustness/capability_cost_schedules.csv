@@ -1,0 +1,10 @@
+environment_id,group,seed,radius_label,epsilon,metric_variant,alpha_c,cost_schedule,automation_support_case,separation_holds,joint_threshold_exists,dro_package,dro_phi_s,dro_phi_c,hrc_package,hrc_status,hrc_phi_s,hrc_phi_c,hrc_b_positive_k_positive
+cost_cb0.75_ck0.75,cost schedules,-1,q90,0.66818,baseline,0.15,cb0.75_ck0.75,baseline,1,1,A32_B0_K4,0.0,0.3798,A32_B6_K10,selected,0.0,0.1305,1
+cost_cb0.75_ck1.00,cost schedules,-1,q90,0.66818,baseline,0.15,cb0.75_ck1.00,baseline,1,1,A32_B0_K4,0.0,0.3798,A32_B6_K10,selected,0.0,0.1305,1
+cost_cb0.75_ck1.25,cost schedules,-1,q90,0.66818,baseline,0.15,cb0.75_ck1.25,baseline,0,1,A32_B0_K0,0.1647,0.4463,A32_B6_K10,selected,0.0,0.1305,1
+cost_cb1.00_ck0.75,cost schedules,-1,q90,0.66818,baseline,0.15,cb1.00_ck0.75,baseline,1,1,A32_B0_K4,0.0,0.3798,A32_B6_K10,selected,0.0,0.1305,1
+cost_cb1.00_ck1.00,cost schedules,-1,q90,0.66818,baseline,0.15,cb1.00_ck1.00,baseline,1,1,A32_B0_K4,0.0,0.3798,A32_B6_K10,selected,0.0,0.1305,1
+cost_cb1.00_ck1.25,cost schedules,-1,q90,0.66818,baseline,0.15,cb1.00_ck1.25,baseline,0,1,A32_B0_K0,0.1647,0.4463,A32_B6_K10,selected,0.0,0.1305,1
+cost_cb1.25_ck0.75,cost schedules,-1,q90,0.66818,baseline,0.15,cb1.25_ck0.75,baseline,1,1,A32_B0_K4,0.0,0.3798,A32_B6_K10,selected,0.0,0.1305,1
+cost_cb1.25_ck1.00,cost schedules,-1,q90,0.66818,baseline,0.15,cb1.25_ck1.00,baseline,1,1,A32_B0_K4,0.0,0.3798,A32_B6_K10,selected,0.0,0.1305,1
+cost_cb1.25_ck1.25,cost schedules,-1,q90,0.66818,baseline,0.15,cb1.25_ck1.25,baseline,0,1,A32_B0_K0,0.1647,0.4463,A32_B6_K10,selected,0.0,0.1305,1

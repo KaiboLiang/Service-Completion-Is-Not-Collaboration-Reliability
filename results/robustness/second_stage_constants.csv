@@ -1,0 +1,12 @@
+case,loss_only_package,loss_only_phi_s,loss_only_phi_c,loss_only_regime,hrc_package,hrc_phi_s,hrc_phi_c,hrc_b_pos_k_pos,joint_threshold_exists
+baseline,A32_B0_K4,0.0,0.3798,service_pass_collab_fail,A32_B6_K10,0.0,0.1305,1,1
+robot_damage_slope=4.2,A32_B0_K0,0.1647,0.4463,both_fail,A32_B6_K10,0.0,0.1305,1,1
+robot_damage_slope=6.2,A32_B0_K4,0.1258,0.3798,both_fail,A32_B6_K10,0.0,0.1305,1,1
+collab_damage_slope=1.0,A32_B0_K4,0.0,0.3798,service_pass_collab_fail,A32_B6_K10,0.0,0.1302,1,1
+collab_damage_slope=2.0,A32_B0_K0,0.1647,0.4463,both_fail,A32_B6_K10,0.0,0.1305,1,1
+human_base_loss=1.0,A32_B0_K4,0.0,0.3798,service_pass_collab_fail,A32_B6_K8,0.0,0.1488,1,1
+human_base_loss=3.0,A32_B0_K0,0.1647,0.4463,both_fail,A32_B6_K10,0.0,0.1305,1,1
+collab_robot_full,A32_B0_K0,0.1647,0.4463,both_fail,A48_B6_K10,0.0,0.1305,1,1
+base_human_capacity=18,A32_B0_K4,0.0,0.3673,service_pass_collab_fail,A32_B6_K10,0.0,0.1308,1,1
+base_human_capacity=24,A32_B0_K0,0.0,0.4463,service_pass_collab_fail,A32_B6_K10,0.0,0.1395,1,1
+exception_h_loads_k,A32_B0_K4,0.0,0.3798,service_pass_collab_fail,A32_B4_K10,0.0,0.1483,1,1

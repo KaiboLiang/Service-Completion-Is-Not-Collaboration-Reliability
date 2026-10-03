@@ -1,0 +1,4 @@
+archetype,count,task_value,fragility,human_load,robot_load,exception_load,coordination_load,recovery_base
+routine,6,95,0.7,2,2,0,1,0.25
+delicate,4,125,1.7,3,2,1,2,1.0
+remote,2,105,0.45,3,2,0,2,0.55

@@ -1,0 +1,30 @@
+{
+  "surfaces": [
+    "SAA (eps=0, 48-state center)",
+    "DRO(q90, 115-state support)",
+    "DRO-notail(q90, 48-state center support)"
+  ],
+  "alpha_s": 0.05,
+  "alpha_c": 0.15,
+  "q90": 0.66818,
+  "test_families": {
+    "in_distribution": {
+      "seed_first": 20261701,
+      "seed_last": 20261720
+    },
+    "marginal_shift": {
+      "labor_multiplier": 0.92,
+      "damage_multiplier": 1.15,
+      "reclamped": true
+    }
+  },
+  "reps": 20,
+  "states_per_rep": 6000,
+  "metrics": [
+    "mean_loss",
+    "collapse_freq",
+    "mean_vc",
+    "q90_vc",
+    "exceed_freq"
+  ]
+}

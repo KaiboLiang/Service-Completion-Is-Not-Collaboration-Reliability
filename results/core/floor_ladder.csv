@@ -1,0 +1,7 @@
+alpha_c,package,phi_c,objective,risk_multiplier_supported,fixed_dispatch_fullcost_supported
+0.2,A32_B4_K8,0.191903,528.778519,True,True
+0.18,A32_B4_K10,0.17741,544.392579,False,False
+0.16,A32_B6_K8,0.155001,560.922264,False,False
+0.15,A32_B6_K10,0.130489,575.122055,True,True
+0.12,A32_B6_K12,0.114461,589.70643,False,False
+0.1,A32_B6_K14,0.094782,605.828124,True,True

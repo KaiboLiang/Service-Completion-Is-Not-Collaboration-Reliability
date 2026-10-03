@@ -1,0 +1,63 @@
+{
+  "cost_units": "normalized",
+  "alpha_s": 0.05,
+  "alpha_c": 0.15,
+  "tau_s": 0.1,
+  "tau_c": 0.35,
+  "epsilon_q90": 0.66818,
+  "baseline_dispatch": "loss_minimizing_support_first",
+  "human_capacity_base": 21,
+  "weather_window_base_minutes": 240,
+  "resource_caps": {
+    "field_human": 30,
+    "automation": 24,
+    "exception": 4,
+    "coordination": 18
+  },
+  "cost_coefficients": {
+    "automation": 7,
+    "exception": 18,
+    "coordination_first_tier": 12,
+    "coordination_second_tier": 18,
+    "coordination_third_tier": 30
+  },
+  "coordination_cost_breaks": [
+    24,
+    32,
+    40
+  ],
+  "loss_coefficients": {
+    "human_base": 2,
+    "human_fragility": 1.2,
+    "robot_base": 4,
+    "robot_damage_fragility": 5.2,
+    "collaborative_base": 3,
+    "collaborative_damage_fragility": 1.45
+  },
+  "recovery_damage_threshold": 4,
+  "recovery_damage_scale": 8,
+  "human_exception_support_fraction": 0.35,
+  "robot_support_fraction": 0,
+  "collaborative_support_fraction": 1,
+  "coordinate_order": [
+    "labor",
+    "window",
+    "readiness",
+    "yield",
+    "damage"
+  ],
+  "ground_metric_weights": [
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "coordinate_divisors": [
+    1,
+    240,
+    240,
+    1,
+    1
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "base_weather_window": 240.0,
+  "bootstrap_samples": 300,
+  "calibration_size": 48,
+  "days_per_season": 20,
+  "min_tail_lift": 1.5,
+  "n_records": 6000,
+  "permutation_samples": 500,
+  "radius_primary": "finite_support_W1_balanced_assignment",
+  "rho0": 0.02,
+  "seasons": 300,
+  "seed": 20260701,
+  "support_size": 115,
+  "tail_size": 24,
+  "bootstrap_random_seed": 20262728,
+  "baseline_quantile_method": "linear",
+  "weight_sensitivity_quantile_method": "lower"
+}

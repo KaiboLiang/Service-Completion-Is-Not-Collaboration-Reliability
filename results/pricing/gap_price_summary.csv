@@ -1,0 +1,2 @@
+catalogue_size,grid_points,spacing,service_guardrail,epsilon,center_size,support_size,computed_packages,globally_cost_pruned_packages,minimum_conservative_grid_margin,Gbar,between_grid_allowance,conservative_continuous_margin_lower_bound,price_min,price_max,minimum_raw_grid_margin,minimum_margin_price,minimum_margin_target
+325,801,0.25,False,0.66818,48,115,251,74,30.22866191085526,15.826367500000002,3.9565918750000004,26.272070035855258,0,200,30.22886391087127,36.5,A32_B4_K8

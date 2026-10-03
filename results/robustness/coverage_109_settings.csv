@@ -1,0 +1,110 @@
+family,setting_id,DRO_package,service_limit,DRO_service,DRO_phi_C,service_pass,floor_pass,HRC_package,HRC_feasible,HRC_bk_positive
+redraws,seed_20270001,A32_B0_K0,0.05,0.1192,0.3473,0,0,A32_B6_K8,1,1
+redraws,seed_20270002,A32_B0_K4,0.05,0.0,0.4662,1,0,A32_B6_K14,1,1
+redraws,seed_20270003,A32_B0_K0,0.05,0.2477,0.3586,0,0,A32_B4_K12,1,1
+redraws,seed_20270004,A32_B0_K0,0.05,0.2853,0.331,0,0,A32_B6_K8,1,1
+redraws,seed_20270005,A32_B0_K0,0.05,0.27,0.3798,0,0,A32_B6_K8,1,1
+redraws,seed_20270006,A32_B0_K4,0.05,0.1176,0.3129,0,0,A32_B6_K10,1,1
+redraws,seed_20270007,A32_B0_K0,0.05,0.2013,0.3776,0,0,A32_B6_K10,1,1
+redraws,seed_20270008,A32_B0_K0,0.05,0.3571,0.3602,0,0,A32_B4_K12,1,1
+redraws,seed_20270009,A32_B0_K0,0.05,0.1453,0.3715,0,0,A32_B4_K12,1,1
+redraws,seed_20270010,A32_B0_K0,0.05,0.4321,0.3282,0,0,A32_B4_K12,1,1
+redraws,seed_20270011,A32_B0_K4,0.05,0.0,0.463,1,0,A32_B8_K10,1,1
+redraws,seed_20270012,A32_B0_K0,0.05,0.0,0.4074,1,0,A32_B4_K14,1,1
+redraws,seed_20270013,A32_B0_K0,0.05,0.154,0.3692,0,0,A32_B4_K10,1,1
+redraws,seed_20270014,A32_B0_K0,0.05,0.3298,0.3609,0,0,A32_B4_K10,1,1
+redraws,seed_20270015,A32_B0_K0,0.05,0.259,0.3987,0,0,A32_B6_K10,1,1
+redraws,seed_20270016,A32_B0_K0,0.05,0.0,0.3444,1,0,A32_B4_K12,1,1
+redraws,seed_20270017,A32_B0_K0,0.05,0.3878,0.3269,0,0,A32_B4_K12,1,1
+redraws,seed_20270018,A32_B0_K4,0.05,0.0811,0.3053,0,0,A32_B4_K12,1,1
+redraws,seed_20270019,A32_B0_K0,0.05,0.1452,0.4701,0,0,A32_B4_K14,1,1
+redraws,seed_20270020,A32_B0_K4,0.05,0.0,0.3058,1,0,A32_B6_K12,1,1
+redraws,seed_20270021,A32_B0_K4,0.05,0.0,0.3287,1,0,A32_B6_K10,1,1
+redraws,seed_20270022,A32_B0_K0,0.05,0.3348,0.3689,0,0,A32_B6_K8,1,1
+redraws,seed_20270023,A32_B0_K0,0.05,0.3822,0.3569,0,0,A32_B4_K10,1,1
+redraws,seed_20270024,A32_B0_K0,0.05,0.3188,0.3399,0,0,A32_B4_K12,1,1
+redraws,seed_20270025,A32_B0_K0,0.05,0.0,0.3859,1,0,A32_B6_K10,1,1
+redraws,seed_20270026,A32_B0_K0,0.05,0.2652,0.3614,0,0,A32_B4_K10,1,1
+redraws,seed_20270027,A32_B0_K0,0.05,0.384,0.3575,0,0,A32_B4_K12,1,1
+redraws,seed_20270028,A32_B0_K0,0.05,0.2692,0.3505,0,0,A32_B4_K10,1,1
+redraws,seed_20270029,A32_B0_K0,0.05,0.0988,0.3644,0,0,A32_B6_K10,1,1
+redraws,seed_20270030,A32_B0_K0,0.05,0.15,0.3534,0,0,A32_B6_K10,1,1
+radius,radius_q50,A32_B0_K0,0.05,0.1404,0.4152,0,0,A32_B6_K8,1,1
+radius,radius_q95,A32_B0_K4,0.05,0.0,0.3941,1,0,A32_B6_K10,1,1
+costs,cost_cb0.75_ck0.75,A32_B0_K4,0.05,0.0,0.3798,1,0,A32_B6_K10,1,1
+costs,cost_cb0.75_ck1.00,A32_B0_K4,0.05,0.0,0.3798,1,0,A32_B6_K10,1,1
+costs,cost_cb0.75_ck1.25,A32_B0_K0,0.05,0.1647,0.4463,0,0,A32_B6_K10,1,1
+costs,cost_cb1.00_ck0.75,A32_B0_K4,0.05,0.0,0.3798,1,0,A32_B6_K10,1,1
+costs,cost_cb1.00_ck1.25,A32_B0_K0,0.05,0.1647,0.4463,0,0,A32_B6_K10,1,1
+costs,cost_cb1.25_ck0.75,A32_B0_K4,0.05,0.0,0.3798,1,0,A32_B6_K10,1,1
+costs,cost_cb1.25_ck1.00,A32_B0_K4,0.05,0.0,0.3798,1,0,A32_B6_K10,1,1
+costs,cost_cb1.25_ck1.25,A32_B0_K0,0.05,0.1647,0.4463,0,0,A32_B6_K10,1,1
+center_size,frozen_dgp_N24,A32_B0_K4,0.05,0.0,0.4949,1,0,A32_B6_K14,1,1
+center_size,frozen_dgp_N96,A32_B0_K0,0.05,0.124,0.3635,0,0,A32_B4_K10,1,1
+metric,metric_adversarial_corner,A32_B0_K4,0.05,0.0,0.1391,1,1,A32_B0_K4,1,0
+metric,metric_robot_supp=0.2,A32_B0_K4,0.05,0.0,0.299,1,0,A32_B4_K10,1,1
+metric,metric_robot_supp=0.1,A32_B0_K4,0.05,0.0,0.3387,1,0,A32_B6_K8,1,1
+metric,metric_tauC=0.25,A32_B0_K4,0.05,0.0,0.4464,1,0,A32_B6_K16,1,1
+metric,metric_tauC=0.45,A32_B0_K4,0.05,0.0,0.3149,1,0,A32_B4_K8,1,1
+metric,metric_tauS=0.05,A32_B0_K4,0.05,0.1647,0.3798,0,0,A32_B6_K10,1,1
+metric,metric_tauS=0.15,A32_B0_K4,0.05,0.0,0.3798,1,0,A32_B6_K10,1,1
+metric,metric_human_supp=0.2,A32_B0_K4,0.05,0.0,0.3798,1,0,A32_B6_K14,1,1
+metric,metric_human_supp=0.5,A32_B0_K4,0.05,0.0,0.3798,1,0,A32_B4_K10,1,1
+metric,metric_dmg_thr=3.0,A32_B0_K4,0.05,0.0,0.4967,1,0,A32_B6_K12,1,1
+metric,metric_dmg_thr=5.0,A32_B0_K4,0.05,0.0,0.2497,1,0,A32_B2_K12,1,1
+metric,metric_cross_robot=0.1_tauC=0.25,A32_B0_K4,0.05,0.0,0.4043,1,0,A32_B6_K14,1,1
+metric,metric_cross_robot=0.1_tauC=0.45,A32_B0_K4,0.05,0.0,0.276,1,0,A32_B2_K10,1,1
+metric,metric_cross_robot=0.2_tauC=0.25,A32_B0_K4,0.05,0.0,0.3629,1,0,A32_B6_K14,1,1
+metric,metric_cross_robot=0.2_tauC=0.45,A32_B0_K4,0.05,0.0,0.2384,1,0,A32_B4_K4,1,1
+mapping,collaborative_support_0.60,A32_B0_K4,0.05,0.0,0.402413,1,0,A32_B8_K20,1,1
+mapping,collaborative_support_0.80,A32_B0_K4,0.05,0.0,0.390454,1,0,A32_B6_K12,1,1
+mapping,collaborative_support_0.90,A32_B0_K4,0.05,0.0,0.38509,1,0,A32_B6_K10,1,1
+mapping,mode_demand_high_collaborative,A32_B0_K4,0.05,0.0,0.378221,1,0,A32_B6_K10,1,1
+mapping,mode_demand_self_diagnostic,A32_B0_K4,0.05,0.0,0.371012,1,0,A32_B6_K8,1,1
+mapping,mode_demand_high_robot,A32_B0_K4,0.05,0.0,0.38916,1,0,A32_B6_K14,1,1
+mapping,mode_demand_low_robot,A32_B0_K4,0.05,0.0,0.373044,1,0,A32_B6_K10,1,1
+ground_metric,damage x2,A32_B0_K4,0.05,0.0,0.372,1,0,A32_B6_K10,1,1
+ground_metric,damage x0.5,A32_B0_K0,0.05,0.193,0.48,0,0,A32_B6_K10,1,1
+ground_metric,labor x2,A32_B0_K0,0.05,0.171,0.458,0,0,A32_B6_K10,1,1
+ground_metric,labor x0.5,A32_B0_K4,0.05,0.0,0.384,1,0,A32_B6_K10,1,1
+ground_metric,weather x2,A32_B0_K0,0.05,0.169,0.454,0,0,A32_B6_K10,1,1
+ground_metric,yield x2,A32_B0_K4,0.05,0.0,0.389,1,0,A32_B6_K10,1,1
+ground_metric,readiness dropped,A32_B0_K4,0.05,0.0,0.373,1,0,A32_B6_K10,1,1
+ground_metric,damage-heavy tilt,A32_B0_K4,0.05,0.0,0.371,1,0,A32_B6_K10,1,1
+second_stage,robot_damage_slope=4.2,A32_B0_K0,0.05,0.1647,0.4463,0,0,A32_B6_K10,1,1
+second_stage,robot_damage_slope=6.2,A32_B0_K4,0.05,0.1258,0.3798,0,0,A32_B6_K10,1,1
+second_stage,collab_damage_slope=1.0,A32_B0_K4,0.05,0.0,0.3798,1,0,A32_B6_K10,1,1
+second_stage,collab_damage_slope=2.0,A32_B0_K0,0.05,0.1647,0.4463,0,0,A32_B6_K10,1,1
+second_stage,human_base_loss=1.0,A32_B0_K4,0.05,0.0,0.3798,1,0,A32_B6_K8,1,1
+second_stage,human_base_loss=3.0,A32_B0_K0,0.05,0.1647,0.4463,0,0,A32_B6_K10,1,1
+second_stage,collab_robot_full,A32_B0_K0,0.05,0.1647,0.4463,0,0,A48_B6_K10,1,1
+second_stage,base_human_capacity=18,A32_B0_K4,0.05,0.0,0.3673,1,0,A32_B6_K10,1,1
+second_stage,base_human_capacity=24,A32_B0_K0,0.05,0.0,0.4463,1,0,A32_B6_K10,1,1
+second_stage,exception_h_loads_k,A32_B0_K4,0.05,0.0,0.3798,1,0,A32_B4_K10,1,1
+time,W2_delta1.00_aggregate,A32_B0_K8,0.05,0.0,0.363272,1,0,A32_B6_K10,1,1
+time,W2_delta1.00_peak,A32_B0_K8,0.05,0.0,0.366279,1,0,A32_B8_K12,1,1
+time,W2_delta0.90_aggregate,A32_B0_K8,0.05,0.0,0.364676,1,0,A32_B6_K12,1,1
+time,W2_delta0.90_peak,A32_B0_K8,0.05,0.0,0.368713,1,0,A32_B8_K14,1,1
+time,W2_delta0.80_aggregate,A32_B0_K8,0.05,0.0,0.366114,1,0,A32_B6_K12,1,1
+time,W2_delta0.80_peak,A32_B0_K8,0.05,0.0,0.372734,1,0,A32_B8_K14,1,1
+time,W3_delta1.00_aggregate,A32_B0_K0,0.05,0.38946,0.446294,0,0,A32_B6_K12,1,1
+time,W3_delta1.00_peak,A32_B0_K0,0.05,0.38946,0.446294,0,0,A32_B8_K16,1,1
+time,W3_delta0.90_aggregate,A32_B0_K0,0.05,0.38946,0.446294,0,0,A32_B6_K12,1,1
+time,W3_delta0.90_peak,A32_B0_K0,0.05,0.38946,0.446294,0,0,A32_B8_K16,1,1
+time,W3_delta0.80_aggregate,A32_B0_K0,0.05,0.38946,0.446294,0,0,A32_B6_K16,1,1
+time,W3_delta0.80_peak,A32_B0_K0,0.05,0.38946,0.446294,0,0,infeasible,0,0
+oracle,delicate_H_without_b,A32_B0_K4,0.05,0.0,0.3672938246369787,1,0,A32_B4_K10,1,1
+oracle,field_labor_support,A32_B0_K4,0.05,0.0,0.3173112872681997,1,0,A32_B6_K10,1,1
+oracle,both,A32_B0_K4,0.05,0.0,0.26459988546602287,1,0,A32_B2_K10,1,1
+service,workload,A32_B0_K4,0.05,0.164674,0.37981,0,0,A32_B6_K10,1,1
+service,fill_0.005,A32_B0_K4,0.005,0.016081,0.37981,0,0,A32_B6_K10,1,1
+service,fill_0.01,A32_B0_K4,0.01,0.016081,0.37981,0,0,A32_B6_K10,1,1
+service,fill_0.02,A32_B0_K4,0.02,0.016081,0.37981,1,0,A32_B6_K10,1,1
+ledger_aggregate,rank_ledger q50,A32_B0_K0,0.05,0.076576,0.261616,0,0,A32_B2_K8,1,1
+ledger_aggregate,rank_ledger q90,A32_B0_K0,0.05,0.094631,0.293521,0,0,A32_B4_K8,1,1
+ledger_aggregate,rank_ledger q95,A32_B0_K0,0.05,0.102961,0.308108,0,0,A32_B4_K8,1,1
+ledger_aggregate,rank_baseline q90,A32_B0_K0,0.05,0.16956,0.410671,0,0,A32_B6_K8,1,1
+ledger_aggregate,level_ledger q50,A16_B0_K0,0.05,0.4921,0.256829,0,0,A32_B4_K8,1,1
+ledger_aggregate,level_ledger q90,A32_B0_K0,0.05,0.092494,0.287995,0,0,A32_B4_K8,1,1
+ledger_aggregate,level_ledger q95,A32_B0_K0,0.05,0.099171,0.299584,0,0,A32_B4_K8,1,1
+ledger_aggregate,level_baseline q90,A32_B0_K0,0.05,0.157655,0.392085,0,0,A32_B6_K10,1,1
